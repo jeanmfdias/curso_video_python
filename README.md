@@ -18,7 +18,7 @@ Todos desenvolvidos em Java
 - [ ] 11. Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².
 - [ ] 12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 - [ ] 13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
-- [ ] 14. Escreva um programa que converta uma temperatura digitada em °C e converta para °F.
+- [x] 14. Escreva um programa que converta uma temperatura digitada em °C e converta para °F.
 - [ ] 15. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
 ### Módulos
