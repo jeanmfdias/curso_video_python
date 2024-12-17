@@ -9,7 +9,7 @@ Todos desenvolvidos em Java
 - [ ] 4. Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele: Um texto vazio, Um número, Um alfabético, Um alfanúmerico, Está em maiúsculas, Está em minúsculas, Está capitalizada e por fim informe o tipo do texto.
 
 ### Cálculos e Operações
-- [ ] 5. Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+- [x] 5. Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 - [ ] 6. Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 - [x] 7. Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 - [ ] 8. Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
