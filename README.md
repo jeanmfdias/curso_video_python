@@ -16,8 +16,8 @@ Todos desenvolvidos em Java
 - [x] 9. Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 - [x] 10. Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar.
 - [ ] 11. Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².
-- [ ] 12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
-- [ ] 13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+- [x] 12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+- [x] 13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
 - [x] 14. Escreva um programa que converta uma temperatura digitada em °C e converta para °F.
 - [ ] 15. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
