@@ -22,7 +22,7 @@ Todos desenvolvidos em Java
 - [x] 15. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
 ### Módulos
-- [ ] 16. Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira.
+- [x] 16. Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira.
 - [ ] 17. Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
 - [ ] 18. Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 - [ ] 19. Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
