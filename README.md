@@ -53,4 +53,42 @@ Todos desenvolvidos em Java
 - [ ] 34. Escreva um programa que pergunte o salário de um funcionário e calcule o valor de seu aumento. Para salários superiores a R$1.250,00, calcule um aumento de 10%. Para salários inferiores ou iguais, o aumento é de 15%.
 - [ ] 35. Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
+## Mundo 2
+
+### Condições Aninhadas
+
+- [ ] 36. Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+- [ ] 37. Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+- [ ] 38. Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:
+- [ ] 38.1. O primeiro valor é maior
+- [ ] 38.2. O segundo valor é maior
+- [ ] 38.3. Não existe valor maior, os dois são iguais
+- [ ] 39. Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+- [ ] 40. Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+- [ ] 40.1. Média abaixo de 5.0: REPROVADO
+- [ ] 40.2. Média entre 5.0 e 6.9: RECUPERAÇÃO
+- [ ] 40.3. Média 7.0 ou superior: APROVADO
+- [ ] 41. A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+- [ ] 41.1. Até 9 anos: MIRIM
+- [ ] 41.2. Até 14 anos: INFANTIL
+- [ ] 41.3. Até 19 anos: JÚNIOR
+- [ ] 41.4. Até 25 anos: SÊNIOR
+- [ ] 41.5. Acima de 25 anos: MASTER
+- [ ] 42. Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+- [ ] 42.1. EQUILÁTERO: todos os lados iguais
+- [ ] 42.2. ISÓSCELES: dois lados iguais, um diferente
+- [ ] 42.3. ESCALENO: todos os lados diferentes
+- [ ] 43. Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+- [ ] 43.1. IMC abaixo de 18,5: Abaixo do Peso
+- [ ] 43.2. Entre 18,5 e 25: Peso Ideal
+- [ ] 43.3. 25 até 30: Sobrepeso
+- [ ] 43.4. 30 até 40: Obesidade
+- [ ] 43.5. Acima de 40: Obesidade Mórbida
+- [ ] 44. Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+- [ ] 44.1. à vista dinheiro/cheque: 10% de desconto
+- [ ] 44.2. à vista no cartão: 5% de desconto
+- [ ] 44.3. em até 2x no cartão: preço formal
+- [ ] 44.4. 3x ou mais no cartão: 20% de juros
+- [ ] 45. Crie um programa que faça o computador jogar Jokenpô com você
+
 [Link do Curso](https://www.youtube.com/watch?v=U_A2kwUfmlw&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=1)
