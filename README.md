@@ -29,12 +29,12 @@ Todos desenvolvidos em Java
 - [x] 18. Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 - [x] 19. Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
 - [x] 20. O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
-- [ ] 21. Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+- [ ] 21. Faça um programa em Java que abra e reproduza o áudio de um arquivo MP3.
 
 ### Strings
-- [ ] 22. Crie um programa que leia o nome completo de uma pessoa e mostre:
-- [ ] 22.1. O nome com todas as letras maiúsculas e minúsculas.
-- [ ] 22.2. Quantas letras ao todo (sem considerar espaços).
+- [x] 22. Crie um programa que leia o nome completo de uma pessoa e mostre:
+- [x] 22.1. O nome com todas as letras maiúsculas e minúsculas.
+- [x] 22.2. Quantas letras ao todo (sem considerar espaços).
 - [ ] 22.3. Quantas letras tem o primeiro nome.
 - [ ] 23. Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 - [ ] 24. Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
