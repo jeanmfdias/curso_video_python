@@ -12,6 +12,5 @@ public class Exercicio22 {
         System.out.println("Minusculas: %s".formatted(nome.toLowerCase()));
         System.out.println("Total de caracteres: %d".formatted(nome.replace(" ", "").length()));
         System.out.println("Tamanho primeiro nome: %d".formatted(textoSeparado[0].length()));
-
     }
 }
