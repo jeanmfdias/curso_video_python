@@ -43,7 +43,7 @@ Todos desenvolvidos em Java
 - [ ] 26.1. Quantas vezes aparece a letra "A".
 - [ ] 26.2. Em que posição ela aparece a primeira vez.
 - [ ] 26.3. Em que posição ela aparece a última vez.
-- [ ] 27. Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e último nome separadamente.
+- [x] 27. Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e último nome separadamente.
 
 ### Estruturas de Controle
 - [ ] 28. Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
