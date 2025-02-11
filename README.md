@@ -39,9 +39,9 @@ Todos desenvolvidos em Java
 - [x] 23. Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 - [x] 24. Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
 - [x] 25. Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
-- [ ] 26. Faça um programa que leia uma frase pelo teclado e mostre:
-- [ ] 26.1. Quantas vezes aparece a letra "A".
-- [ ] 26.2. Em que posição ela aparece a primeira vez.
+- [x] 26. Faça um programa que leia uma frase pelo teclado e mostre:
+- [x] 26.1. Quantas vezes aparece a letra "A".
+- [x] 26.2. Em que posição ela aparece a primeira vez.
 - [ ] 26.3. Em que posição ela aparece a última vez.
 - [x] 27. Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e último nome separadamente.
 
