@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CalculosOperacoes/CalculosOperacoes.iml" filepath="$PROJECT_DIR$/CalculosOperacoes/CalculosOperacoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CursoEmVideoJava.iml" filepath="$PROJECT_DIR$/.idea/CursoEmVideoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasControle/EstruturasControle.iml" filepath="$PROJECT_DIR$/EstruturasControle/EstruturasControle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulos/Modulos.iml" filepath="$PROJECT_DIR$/Modulos/Modulos.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeirosPassos/PrimeirosPassos.iml" filepath="$PROJECT_DIR$/PrimeirosPassos/PrimeirosPassos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />

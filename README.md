@@ -42,11 +42,11 @@ Todos desenvolvidos em Java
 - [x] 26. Faça um programa que leia uma frase pelo teclado e mostre:
 - [x] 26.1. Quantas vezes aparece a letra "A".
 - [x] 26.2. Em que posição ela aparece a primeira vez.
-- [ ] 26.3. Em que posição ela aparece a última vez.
+- [x] 26.3. Em que posição ela aparece a última vez.
 - [x] 27. Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e último nome separadamente.
 
 ### Estruturas de Controle
-- [ ] 28. Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+- [x] 28. Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 - [ ] 29. Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
 - [ ] 30. Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
 - [ ] 31. Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 para viagens mais longas.
